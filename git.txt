@@ -1,0 +1,19 @@
+     
+
+
+                                                                       GIT & GITHUB
+                                                                      --------------
+
+   GitHub is a website for hosting projects that use git.
+
+   Git is an Open Source Distributed Version Control System use for tracking changes in any set of files
+
+  $ git init command is used to initialize a new git repository or reinitialize an existing one.
+
+  $ git add  : is a command which adds changes in the working directory to the staging area.
+
+  $ git commit: command is used to save your changes to the local repository.
+
+  $ git status : will display the whole current status of your working tree 
+
+  $ git log: displays all of the commits in a repository's history, the author, date, time and description
