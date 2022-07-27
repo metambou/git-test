@@ -19,3 +19,4 @@
   $ git log: displays all of the commits in a repository's history, the author, date, time and description
 
   this is just a text
+  yes
